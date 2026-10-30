@@ -3,7 +3,10 @@
 
 
 Швеция 1
-antigravity:nova-agy@2.26.124.107:3128
+
+api-key:jxaq9q2zm82@89.125.28.207:3128 (через Уфа 1)
+
+m8uabtcdi:kq4po2qyi4@13.143.243.181:3128 (Через Москва 1)
 
 Швеция 2
 antigravity:nova-agy@2.26.124.30:3128
