@@ -11,12 +11,6 @@ m8uabtcdi:kq4po2qyi4@13.143.243.181:3128 (Через Москва 1)
 Швеция 2
 antigravity:nova-agy@2.26.124.30:3128
 
-Германия 1
-antigravity:nova-agy@191.44.108.202:3128
-
-Германия 2
-antigravity:nova-agy@212.113.104.87:3128
-
 Москва 1**
 antigravity:nova-agy@13.143.243.181:3128
 
